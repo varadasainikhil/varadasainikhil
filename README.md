@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varadasainikhil
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Java and Web Development.
+- 🌱 I’m currently learning Android and Web Development.
 - 📫 How to reach me- varadasainikhil@gmail.com
 
 <!---
